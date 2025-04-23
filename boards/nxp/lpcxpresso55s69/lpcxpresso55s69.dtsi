@@ -109,6 +109,11 @@
 	current-speed = <115200>;
 };
 
+&flexcomm2 {
+	compatible = "nxp,lpc-usart";
+	current-speed = <115200>;
+};
+
 &flexcomm3 {
 	compatible = "nxp,lpc-usart";
 	current-speed = <115200>;
