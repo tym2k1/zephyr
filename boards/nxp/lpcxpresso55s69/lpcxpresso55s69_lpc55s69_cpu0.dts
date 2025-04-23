@@ -108,7 +108,7 @@
 };
 
 &flexcomm0 {
-	status = "okay";
+	status = "disabled";
 };
 
 &flexcomm2 {
@@ -116,7 +116,7 @@
 };
 
 &flexcomm3 {
-	status = "okay";
+	status = "disabled";
 };
 
 &flexcomm4 {
