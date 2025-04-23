@@ -111,6 +111,10 @@
 	status = "okay";
 };
 
+&flexcomm3 {
+	status = "okay";
+};
+
 &flexcomm4 {
 	status = "okay";
 };
